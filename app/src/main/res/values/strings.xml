@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KinoHelfer</string>
+
+    <string name="percents">%</string>
+    <string name="work_duration">Arbeitszeit</string>
+    <string name="duration_to">Bis:</string>
+    <string name="duration_from">Von:</string>
+    <string name="effective_duration">Effektive Zeit</string>
+    <string name="wage">Lohn</string>
+    <string name="wage_per_hour">€/Std.</string>
+    <string name="currency">€</string>
+    <string name="colon">:</string>
+    <string name="plus">+</string>
+</resources>
